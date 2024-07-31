@@ -131,7 +131,7 @@ function visualizeResults(result, x, y)
     colorbar;
     xlabel('X [m]');
     ylabel('Y [m]');
-    title('Temperature Distribution');
+    title('Temperature Distribution | <<Fazel>>');
     hold off;
 end
 
