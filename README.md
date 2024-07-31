@@ -7,7 +7,7 @@ Projects For The Finite Element Method Lesson And The Exercise Answers.
  ## 1. GitHub Question From [This Repository](https://github.com/Samson-Mano/2D_Heat_transfer?tab=readme-ov-file#example-3):
 Matlab Result:
 
-![Final Result](Matlab%20Final%20Result%20For%20GitHub.png "Matlab")
+![Final Result](Matlab%20Final%20Result%20For%20GitHub%20update.png "Matlab")
 
 Python Result:
 
