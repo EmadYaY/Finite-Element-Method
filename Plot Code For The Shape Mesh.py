@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#The main purpose of this code is to parse and visualize a mesh.
 def parse_inp_file(file_path):
     nodes = []
     elements = []
