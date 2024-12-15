@@ -27,11 +27,11 @@ Python Result:
 ----
 
 این پروژه جهت تحویل پروژه و تمرین‌های درس اجزاء محدود ساخته شده.
-فاضل محمد علی پور - مرداد 1403
+مرداد 1403
 -
 
 This project was created to deliver the project and exercises of the finite element lesson.
-Fazel Mohammad Alipour - July 2024
+July 2024
 -
 
 ### Socials🌐🔗:
